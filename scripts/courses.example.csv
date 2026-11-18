@@ -1,0 +1,11 @@
+code,title,level,semester
+PHY101,General Physics I,100,1
+PHY102,General Physics II,100,2
+PHY201,Classical Mechanics,200,1
+PHY202,Electricity and Magnetism,200,2
+PHY301,Quantum Mechanics I,300,1
+PHY302,Thermodynamics and Statistical Physics,300,2
+PHY401,Quantum Mechanics II,400,1
+PHY402,Solid State Physics,400,2
+MTH101,Elementary Mathematics I,100,1
+MTH102,Elementary Mathematics II,100,2
